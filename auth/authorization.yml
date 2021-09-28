@@ -7,5 +7,5 @@ spring:
     properties:
       hibernate:
         ddl-auto: update
-        show-sql: true
+        show-sql: false
         dialect: org.hibernate.dialect.PostgreSQL81Dialect
